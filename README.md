@@ -4,6 +4,7 @@
 Виж папка: Versions
 
 http://twenkid.com/software/toshko2/ (стар сайт)
+
 https://artificial-mind.blogspot.com/search?q=%D0%A2%D0%BE%D1%88%D0%BA%D0%BE
 
 
