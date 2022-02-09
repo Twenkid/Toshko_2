@@ -7,6 +7,12 @@ http://twenkid.com/software/toshko2/ (стар сайт)
 
 https://artificial-mind.blogspot.com/search?q=%D0%A2%D0%BE%D1%88%D0%BA%D0%BE
 
+![image](https://user-images.githubusercontent.com/23367640/153290810-ef9e4e83-067e-48ec-b782-8e947632b7a0.png)
+
+"Тошко 2.055" демо:
+
+https://www.youtube.com/watch?v=cn2Sl9OqvWY
+
 
 ## 2.075 
 
