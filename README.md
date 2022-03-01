@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=cn2Sl9OqvWY
 Приложението е пуснато на около 227 различни конфигурации процесор/тактова честота и около 175 ако не се брои честотата. 
 Intel: 143+24 = 167, AMD: 26, 2 - неизвестни
 AMD: 14.9 %
+
+...
+
+See also: https://github.com/Twenkid/NLP-Computational-Linguistics/
