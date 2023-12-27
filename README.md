@@ -20,6 +20,10 @@ https://www.youtube.com/watch?v=cn2Sl9OqvWY
 
 Работи и без връзка с Интернет. (Досега при зареждане изискваше свързване със сървър, така беше в началото - с  логване; - после логването беше само за статистика, но поради неоправен бъг забиваше при липса на връзка.)  
 
+Download lame mp3 dll for encoding WAV to mp3: https://lame.sourceforge.io/download.php
+Lame binaries 32-bit x86 Windows ... 
+https://lame-binaries-for-windows.en.uptodown.com/windows/download
+
 ## 2.070 - Изговор през уеб сървър
 
 И получаване на изговорения запис като mp3-файл, примерен код на Python и PHP.
