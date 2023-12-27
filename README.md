@@ -23,6 +23,11 @@ https://www.youtube.com/watch?v=cn2Sl9OqvWY
 Download lame mp3 dll for encoding WAV to mp3: https://lame.sourceforge.io/download.php
 Lame binaries 32-bit x86 Windows ... 
 https://lame-binaries-for-windows.en.uptodown.com/windows/download
+Поставете lame_enc.dll  при exe-то:
+
+![image](https://github.com/Twenkid/Toshko_2/assets/23367640/916abf89-f697-48ea-acb1-1a671fa59004)
+
+
 
 ## 2.070 - Изговор през уеб сървър
 
