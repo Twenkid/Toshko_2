@@ -3,6 +3,13 @@
 
 Виж папка: Versions
 
+## Глас 2004: Първата версия на Тошко 2.
+
+Глас 07.05.2004	Синтезатор на българска реч. Прочети повече и следи за най-новите кръпки от същото място.	170 КБ	| 12.5.2004
+https://www.oocities.org/todprog/bgr/glas-07052004.zip
+
+
+
 http://twenkid.com/software/toshko2/ (стар сайт)
 
 https://artificial-mind.blogspot.com/search?q=%D0%A2%D0%BE%D1%88%D0%BA%D0%BE
