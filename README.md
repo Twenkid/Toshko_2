@@ -3,6 +3,12 @@
 
 Виж папка: Versions
 
+**Новини:** 12.2023: Оправен изпълнимия файл на 2.075, беше качена някаква неработеща версия. Компилиран е с VS 2019 x86, така че може да е нужно да се изтеглят съответните "Redistributable" files. https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022
+
+X86	https://aka.ms/vs/17/release/vc_redist.x86.exe	Permalink for latest supported x86 version
+
 ## Глас 2004: Първата версия на Тошко 2.
 
 Глас 07.05.2004	Синтезатор на българска реч. Прочети повече и следи за най-новите кръпки от същото място.	170 КБ	| 12.5.2004
