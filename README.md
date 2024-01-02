@@ -14,9 +14,17 @@ X86	https://aka.ms/vs/17/release/vc_redist.x86.exe	Permalink for latest supporte
 Глас 07.05.2004	Синтезатор на българска реч. Прочети повече и следи за най-новите кръпки от същото място.	170 КБ	| 12.5.2004
 https://www.oocities.org/todprog/bgr/glas-07052004.zip
 
+![image](https://github.com/Twenkid/Toshko_2/assets/23367640/96bf7622-0186-40d9-a70e-61b9136dba9f)
 
+https://www.oocities.org/todprog/
 
-http://twenkid.com/software/toshko2/ (стар сайт)
+https://www.oocities.org/todprog/bgr/glas.htm
+
+https://www.oocities.org/todprog/pisar/pisar.htm
+
+### Тошко 2: "официален сайт"
+
+http://twenkid.com/software/toshko2/
 
 https://artificial-mind.blogspot.com/search?q=%D0%A2%D0%BE%D1%88%D0%BA%D0%BE
 
@@ -25,7 +33,6 @@ https://artificial-mind.blogspot.com/search?q=%D0%A2%D0%BE%D1%88%D0%BA%D0%BE
 "Тошко 2.055" демо:
 
 https://www.youtube.com/watch?v=cn2Sl9OqvWY
-
 
 ## 2.075 
 
