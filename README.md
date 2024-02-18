@@ -3,7 +3,12 @@
 
 Виж папка: Versions
 
-**Новини:** 12.2023: Оправен изпълнимия файл на 2.075, беше качена някаква неработеща версия. Компилиран е с VS 2019 x86, така че може да е нужно да се изтеглят съответните "Redistributable" files. https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+**Новини:** 
+
+* 18.2.2024: Toshko 2.076: Parameter Int 69; no save after each segmentation to a temporary debug file; more words with accents: extract the acc_ files to data2076.7z to /data folder.
+2.076 - no writing to _release-debug-segment.txt & more accents in the dictionary
+
+* 12.2023: Оправен изпълнимия файл на 2.075, беше качена някаква неработеща версия. Компилиран е с VS 2019 x86, така че може да е нужно да се изтеглят съответните "Redistributable" files. https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022
 
