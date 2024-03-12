@@ -5,6 +5,10 @@
 
 **Новини:** 
 
+* 13.3.2024: Напоследък внедрявам система за разпознаване на реч и си мисля да има "Тошко 3", който да бъде с нея, а може и да задвижа старите идеи още от 2004 г. за обучаващо се разпознаване и синтез "по моя начин", или просто да внедря невронен както се прави сега с клонира на гласове, "Voice Cloning" - използвах една такава система в два от дийпфейк филмите на Twenkid Studio.
+* 13.3.2024: Може би ще публикувам магистърската ми дипломна работа "Глас 2", която съдържаше планове за развитие на Глас 2004 още от създаването на първия синтезатор - част от тях осъществени в "Тошко 2", но не и най-интересните, обучаващи се, които вече са разрешени чрез невронни мрежи.
+
+
 * 18.2.2024: Toshko 2.076: Parameter Int 69; no save after each segmentation to a temporary debug file; more words with accents: extract the acc_ files to data2076.7z to /data folder.
 2.076 - no writing to _release-debug-segment.txt & more accents in the dictionary
 
@@ -69,4 +73,7 @@ AMD: 14.9 %
 
 ...
 
-See also: https://github.com/Twenkid/NLP-Computational-Linguistics/
+See also: 
+https://github.com/Twenkid/NLP-Computational-Linguistics/
+https://github.com/Twenkid/Vsy
+
